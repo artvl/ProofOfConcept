@@ -1,0 +1,16 @@
+{
+  "name": "pdf-view",
+  "version": "0.0.1",
+  "description": "Hope it help",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "emailjs-smtp-client": "^1.0.0",
+    "express": "^4.14.1",
+    "pdfjs-dist": "^1.7.244"
+  }
+}
